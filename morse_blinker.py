@@ -61,4 +61,4 @@ led = Pin(2, Pin.OUT)
 #----A LOOP OVER THE MAIN FUNCTION CALL----
 
 while True: 
-  blink_morse(led, "I LOVE YOU")
+  blink_morse(led, "I LOVE YOU") # type your message here :)
